@@ -11,8 +11,8 @@ From Equation 2: 5 + 5 + 10 = 20   (So Man = 5)<br><br>
 From Equation 3: (2 +2) + (2 + 2) + 5 = 13   (So a single ribbon = 2)<br><br>
 Equation 4 is: 5 + (5 + 4 + 10 ) x 2 = 43   (In this equation, there is only 1 shoe, so shoe = 5 ; Also ribbons are tied in man's both hands and he is wearing shoes in this equation, so (Man = 5 ; Ribbons = 2 + 2 ; Shoe = 10) . Then in the last part there is a single ribbon which is = 2 )<br><br>
 
-So according to BODMAS rule,
-5 + (5 + 4 + 10 ) x 2
-=> 5 + (19 x 2)
-=> 5 + 38
+So according to BODMAS rule,<br>
+5 + (5 + 4 + 10 ) x 2<br>
+=> 5 + (19 x 2)<br>
+=> 5 + 38<br>
 => 43
